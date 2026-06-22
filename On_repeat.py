@@ -24,7 +24,7 @@ def data_preperation(df, target_value, noise_percent, random_state):
     """
     df = dl.corrupt_labels(df, target_value, noise_percent, random_state)
 
-    # split dataset 75/25 with all sets having equal density of the target (stratified split)
+    # split dataset 70/30 with all sets having equal density of the target (stratified split)
     # use random state for reproducibility
     df_train, df_test = train_test_split(df, test_size=0.3, stratify=df.is_fraud, random_state=random_state)
 
