@@ -1,4 +1,4 @@
-Repository for the experiments described in "Decision trees for extroversion and introversion classification" for the interm assignment for JBC090 Language and AI.
+Repository for the experiments described in "Global and local comparison of SHAP and LIME across different accuracies" for the Bachelor End Project.
 
 ## 📜 Overview
 
