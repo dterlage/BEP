@@ -16,7 +16,7 @@ NEED TO ADD ABSTRACT
 
 ### ♻️ Reproduction
 
-To reproduce the global results simply run `Global.py`.  For the local results simply run `Loca.py`.
+To reproduce the global results simply run `Global.py`.  For the local results simply run `Local.py`.
 
 > \* The code was tested with Python 3.13.3 on Windows.
 
